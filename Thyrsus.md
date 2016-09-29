@@ -34,6 +34,9 @@ Choose 1:
 * **Spiritualist:** You're at ease around the spirits of the world around you. Take +1 when dealing with spirits.
 * **Non-Toxic:** You are immune to all toxins, poisons and disease, including things like food poisoning and the flu. Go ahead and keep that six-month-old milk.
 * **Fast-Healing:** You may heal 1harm on your sheet per session without using magic.
-* see beyond extension -- what here is alive? what is dying or diseased?
+* **Natural Insight:** When you **see beyond**, you may additionally choose from the following questions:
+	* What here is alive?
+	* What here is unhealthy or diseased, in the literal sense?
+	* ???
 * natural armor???
 * what do you even do with spirits
